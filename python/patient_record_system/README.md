@@ -45,15 +45,15 @@ streamlit run app.py
 
 Add Patient 
 
-![Add](screenshots/add_patient.png)
+![Add](screenshots/add_patient_record.png)
 
 Edit/Delete Patient
 
-![Edit](screenshots/edit_patient.png)
+![Edit](screenshots/edit_delete_patient_record.png)
 
 View Patients
 
-![View](screenshots/view_patient.png) |
+![View](screenshots/view_patient_record.png) 
 
 ---
 
