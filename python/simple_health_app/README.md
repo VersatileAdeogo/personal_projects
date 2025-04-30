@@ -42,12 +42,19 @@ streamlit run app.py
 ## Screenshots
 
 Symptom Checker
+
 ![Symptom](screenshots/symptom_checker.png) 
+
 Sleep Tracker
+
 ![Sleep](screenshots/sleep_tracker.png) 
+
 Health Tips
+
 ![Tip](screenshots/health_tip_generator.png) 
+
 BMI Calculator
+
 ![BMI](screenshots/bmi_calculator.png) |
 
 ---
