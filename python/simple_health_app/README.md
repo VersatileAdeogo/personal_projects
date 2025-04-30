@@ -39,23 +39,29 @@ streamlit run app.py
 
 ---
 
+## Live Demo
+
+[Open in Streamlit](https://va-simple-health-app.streamlit.app/)
+
+---
+
 ## Screenshots
 
 Symptom Checker
 
-![Symptom](screenshots/symptom_checker.png) 
+[Symptom](screenshots/symptom_checker.png) 
 
 Sleep Tracker
 
-![Sleep](screenshots/sleep_tracker.png) 
+[Sleep](screenshots/sleep_tracker.png) 
 
 Health Tips
 
-![Tip](screenshots/health_tip_generator.png) 
+[Tip](screenshots/health_tip_generator.png) 
 
 BMI Calculator
 
-![BMI](screenshots/bmi_calculator.png) 
+[BMI](screenshots/bmi_calculator.png) 
 
 ---
 
