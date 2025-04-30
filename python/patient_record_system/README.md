@@ -43,7 +43,7 @@ streamlit run app.py
 
 ## Live Demo
 
-[[Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://va-patient-record-system.streamlit.app/)
+[Open in Streamlit](https://va-patient-record-system.streamlit.app/)
 
 ---
 
