@@ -43,7 +43,7 @@ streamlit run app.py
 
 ## Live Demo
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://va-patient-record-system.streamlit.app/)
+[[Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://va-patient-record-system.streamlit.app/)
 
 ---
 
@@ -51,15 +51,15 @@ streamlit run app.py
 
 Add Patient 
 
-![Add](screenshots/add_patient_record.png)
+[Add](screenshots/add_patient_record.png)
 
 Edit/Delete Patient
 
-![Edit](screenshots/edit_delete_patient_record.png)
+[Edit](screenshots/edit_delete_patient_record.png)
 
 View Patients
 
-![View](screenshots/view_patient_record.png) 
+[View](screenshots/view_patient_record.png) 
 
 ---
 
