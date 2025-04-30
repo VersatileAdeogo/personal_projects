@@ -55,7 +55,7 @@ Health Tips
 
 BMI Calculator
 
-![BMI](screenshots/bmi_calculator.png) |
+![BMI](screenshots/bmi_calculator.png) 
 
 ---
 
